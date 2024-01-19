@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtDisplay</string>
+    <string name="Art_name1">Cybercity</string>
+    <string name="artist_name1">Chester Bennington</string>
+    <string name="Art_name2">Bat logo</string>
+    <string name="artist_name2">Bruce Wayne</string>
+    <string name="Art_name3">NieR:Automata</string>
+    <string name="artist_name3">2B</string>
+</resources>
